@@ -1,7 +1,5 @@
 # flake-it/bibliography
 
-This repository contains a BibTeX file for papers related to the field of Flaky Tests. It was created by Owain Parry, Michael Hilton, Gregory M. Kapfhammer and Phil McMinn.  
-
 You are free to use any of the entries in this file if you are interested in citing one of these research papers in your own LaTeX document.
 
 ## Installation Instructions
